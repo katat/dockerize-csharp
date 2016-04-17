@@ -1,0 +1,3 @@
+csharp:
+  build: .
+  entrypoint: ./run.sh
