@@ -2,4 +2,4 @@
 
 `docker-compose up`
 
-See tutorial at [katat.github.io](https://katat.github.io)
+See [tutorial](https://katat.github.io/2016/04/16/dockerize-csharp-app/)
